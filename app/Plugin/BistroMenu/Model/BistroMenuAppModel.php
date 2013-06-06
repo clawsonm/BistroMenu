@@ -1,0 +1,4 @@
+
+class BistroMenuAppModel extends AppModel {
+
+}

@@ -1,0 +1,4 @@
+
+class BistroMenuAppController extends AppController {
+
+}
